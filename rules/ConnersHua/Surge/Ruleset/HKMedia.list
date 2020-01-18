@@ -2,6 +2,9 @@
 USER-AGENT,mytv*
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
+# > 有线电视
+cdn.otthk.hk
+i-cable.com
 # > ViuTV
 USER-AGENT,Viu*
 USER-AGENT,ViuTV*
@@ -29,3 +32,4 @@ DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spoti.fi
+
