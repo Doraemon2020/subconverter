@@ -16,9 +16,12 @@ DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
 # > NowTV
-DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,nowtv
+DOMAIN-SUFFIX,nowtv.com
 # > RTHK
 DOMAIN-KEYWORD,rthklive
+DOMAIN-KEYWORD,rthk
+DOMAIN-SUFFIX,rthk.hk
 # > KKBOX
 DOMAIN-SUFFIX,kkbox.com
 DOMAIN-SUFFIX,kkbox.com.tw
