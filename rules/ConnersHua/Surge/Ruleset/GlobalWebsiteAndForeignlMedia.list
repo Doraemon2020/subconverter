@@ -10,8 +10,10 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,blogspot
 # > Microsoft
+DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,sharepoint.com
 # > Facebook
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,fb.com
