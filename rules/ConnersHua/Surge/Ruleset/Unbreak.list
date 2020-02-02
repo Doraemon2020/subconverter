@@ -10,6 +10,7 @@ DOMAIN,mtalk.google.com
 # > Tencent
 DOMAIN,livew.l.qq.com
 DOMAIN,vd.l.qq.com
+DOMAIN-SUFFIX,browser.qq.com
 # > Strava
 DOMAIN,analytics.strava.com
 # > Umeng
