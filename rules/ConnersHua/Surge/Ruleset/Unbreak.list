@@ -15,3 +15,9 @@ DOMAIN,analytics.strava.com
 # > Umeng
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
+# > Sina
+DOMAIN-SUFFIX,sina.com
+DOMAIN-SUFFIX,sina.com.cn
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,sinajs.cn
