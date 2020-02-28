@@ -107,7 +107,6 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,xiaomi.com
 # > Microsoft
-DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,outlook.com
